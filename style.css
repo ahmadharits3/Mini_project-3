@@ -159,6 +159,18 @@ strong{
   padding: 8px 12px;
 }
 
+/* .card-info {
+  position: absolute;
+  bottom: 12px;
+  left: 12px;
+  right: 12px;
+  background: rgba(255,255,255,0.9);
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px 12px;
+} */
 .card-info h4 {
   font-size: 14px;
   font-weight: 700;
